@@ -21,7 +21,7 @@ A simple command-line To-Do List manager built with Python. This tool allows use
 
 ### 1. Clone the repository or copy the script
 
-```bash
+``bash
 git clone https://github.com/your-username/todo-cli-python.git
 cd todo-cli-python
 
